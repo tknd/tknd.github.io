@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[多芸は無限]]></title>
-  <link href="http://tknd.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: コンピュータ | 多芸は無限]]></title>
+  <link href="http://tknd.github.io/blog/categories/konpiyuta/atom.xml" rel="self"/>
   <link href="http://tknd.github.io/"/>
   <updated>2014-03-25T04:49:51+09:00</updated>
   <id>http://tknd.github.io/</id>
